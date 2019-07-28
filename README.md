@@ -21,5 +21,5 @@ Pode-se usar qualquer tipo de suporte, desde que tenha os seguintes requisitos (
 - Largura da base: 10mm;
 - Distância mínima entre as bases: 80mm;
 
-### Esboço no SolidWorks
+### Esboço final no SolidWorks
 ![](Case.png)
