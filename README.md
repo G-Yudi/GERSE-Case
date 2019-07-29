@@ -23,6 +23,3 @@ Pode-se usar qualquer tipo de suporte, desde que tenha os seguintes requisitos (
 
 ### Esboço final no SolidWorks
 ![](Case.png)
-
-### Preço dos materiais
-![](Precos.txt)
