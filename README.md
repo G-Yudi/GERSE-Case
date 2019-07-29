@@ -1,7 +1,7 @@
 # Case para Impressora 3D
 
 Projeto criado para a utilização na impressora Graber.
-![](Impressora.2.jpeg)
+![](Graber (2).jpeg)
 
 ### Sobre o suporte do rolo de filamento
 Para fazer o esboço do suporte, usou-se o rolo de filamento com as seguintes especificações:
