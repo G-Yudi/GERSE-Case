@@ -22,4 +22,4 @@ Pode-se usar qualquer tipo de suporte, desde que tenha os seguintes requisitos (
 - Distância mínima entre as bases: 80mm;
 
 ### Esboço final no SolidWorks
-![](Case.png)
+![](https://github.com/G-Yudi/GERSE-Case/blob/master/Case/Case.png)
