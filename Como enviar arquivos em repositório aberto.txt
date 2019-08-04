@@ -1,0 +1,13 @@
+$ git init
+
+$ git status
+
+$ git remote add origin <Local> (não se esquecer do .git no final)
+
+$ git pull origin master (para parear o que tem lá e na pasta)
+
+$ git add <nome do arquivo>
+
+$ git commit -m "Nome para identificar"
+
+$ git push -u origin master
