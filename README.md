@@ -1,7 +1,7 @@
 # Case para Impressora 3D
 
 Projeto criado para a utilização na impressora Graber.
-![](https://github.com/G-Yudi/GERSE-Case/blob/master/Esboco_e_Graber/Graber%20(2).jpeg)
+![](https://github.com/G-Yudi/GERSE-Case/blob/master/Esboco_e_Graber/Graber(2).jpeg)
 
 ### Sobre o suporte do rolo de filamento
 Para fazer o esboço do suporte, usou-se o rolo de filamento com as seguintes especificações:
@@ -22,4 +22,4 @@ Pode-se usar qualquer tipo de suporte, desde que tenha os seguintes requisitos (
 - Distância mínima entre as bases: 80mm;
 
 ### Esboço final no SolidWorks
-![](https://github.com/G-Yudi/GERSE-Case/blob/master/Case/Case.png)
+![](https://github.com/G-Yudi/GERSE-Case/blob/master/Imagens/Case.png)
