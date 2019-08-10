@@ -1,13 +1,13 @@
 - MDF
-* Densidade usada: 0,83 g/cm³;
+* Densidade usada: 0,83 g/cmÂ³;
 
 * Massa da base: 1,082 Kg;
 
-* Massa restante: 1,587 Kg
+* Massa da parte traseira da tampa: 1,587 Kg
 
 
-- ACRÍLICO
-* Densidade usada: 1,19 g/cm³;
+- ACRÃLICO
+* Densidade usada: 1,19 g/cmÂ³;
 
 * Massa das portas: 2,280 Kg;
 
@@ -15,4 +15,4 @@
 - TOTAL
 * Massa Total: 4,949 Kg
 
-* Total da parte removível: 3,867 Kg
+* Total da parte removÃ­vel: 3,867 Kg
